@@ -1,0 +1,25 @@
+body {
+    padding: 100px;
+}
+
+.submit-area {
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
+  padding: 30px;
+  margin-top: 40px;
+}
+
+#log-in-area {
+    display: block;
+}
+
+.status {
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 10px;
+    color: white;
+}
+
+#transaction-area {
+    display: none;
+}
